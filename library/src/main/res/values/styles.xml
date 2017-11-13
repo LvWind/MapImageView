@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="MapImageView">
+		<!--<attr name="mProvider"/>-->
+		<attr name="mLatitude" format="float" />
+		<attr name="mLongitude" format="float" />
+		<attr name="mZoom" format="integer" />
+		<attr name="mWidth" format="dimension" />
+		<attr name="mHeight" format="dimension" />
+	</declare-styleable>
+	<!--<attr name="mProvider">-->
+		<!--<enum name="GOOGLE" value="1" />-->
+		<!--<enum name="BAIDU" value="2" />-->
+		<!--<enum name="OSM" value="3" />-->
+	<!--</attr>-->
+</resources>
